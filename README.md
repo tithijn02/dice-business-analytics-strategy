@@ -41,5 +41,5 @@ This project proposes three data-driven solutions:
 
 ## 📄 Full Case Study
 
-👉 [View Report](./report.pdf)
+👉 [View Report](./dice-strategy.pdf)
 
